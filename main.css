@@ -1,0 +1,49 @@
+img {
+    max-width: 100%;
+    display: block;
+}
+.slide {
+    margin-bottom: 10px;
+}
+
+.cuadro {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    background-color: rgb(247,247,247);
+}
+.cuadro table {
+    margin: auto;
+}
+.img1{
+    width: 750px;
+}
+.img2, .img3{
+    width: 373px;
+}
+
+section p {
+    font-weight: 800;
+    text-align: end;
+    padding-right: 30px;
+    font-size: 18px;
+    background-color: rgb(247,247,247);
+}
+span {
+    color: rgb(255, 102, 0);
+}
+
+.cards {
+    background-color: rgb(247,247,247);
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.cards img {
+    width: 250px;
+}
+.cards table {
+    margin: auto;
+}
+.cards td {
+    padding-left: 3vw;
+    padding-right: 3vw;
+}

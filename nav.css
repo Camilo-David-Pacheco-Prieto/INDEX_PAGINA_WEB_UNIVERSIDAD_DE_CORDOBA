@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+nav {
+    width: 100%;
+}
+.topnav {
+    color: green;
+    margin: auto;
+    margin-top: 15px;
+}
+.topnav .socialmedia {
+    padding-left: 3vw;
+}
+.socialmedia i {
+    margin-left: 0.8vw;
+}
+.topnav span {
+    margin-left: 0.3vw;
+    margin-right: 0.3vw;
+    font-size: 18px;
+    color: rgba(0, 128, 0, 0.2);
+}
+.bottomnav {
+    margin: auto;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    font-size: 14px;
+    font-weight: bolder;
+}
+.bottomnav td {
+    padding-left: 3vw;
+}
+.bottomnav i {
+    font-size: medium;
+}
+.bottomnav img {
+    width: 250px;
+}

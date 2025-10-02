@@ -1,0 +1,27 @@
+.footer-top {
+    background-image: url('images/footer_img.png');
+    background-size: cover;
+    height: 300px;
+}
+.footer-top td {
+    padding-left: 1vw;
+    padding-right: 1vw;
+    font-size: 14px;
+}
+.footer-top p {
+    margin-bottom: 6px;
+}
+.footer-top table {
+    margin: auto;
+    padding-top: 85px;
+}
+.footer-bottom {
+    border-top: 1px solid black;
+    font-size: 12px;
+    text-align: center;
+    height: 100px;
+    padding-top: 25px;
+}
+.footer-bottom p {
+    margin-bottom: 6px;
+}
